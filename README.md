@@ -1,2 +1,4 @@
 # Data-Structure
-This repository contains all the university labs that I did while learning Java Data Structure
+This repository contains Java Data Structure projects.
+
+These Projects are done at AlMaaref University Lab sessions, while learning Data Structure course.
